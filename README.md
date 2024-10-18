@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm an enthiusiatic, motivated CS student at Columbia University, with passion and project expereinces in **backend engineering, and databases** 
+I'm an enthiusiatic, motivated CS student at Columbia University, with passion and project expereinces in **machine learning, backend engineering, and databases** 
 
 - 🌱 Currently learning: **PostgreSQL**
 - 🔭 Working on: **An app that helps volleyball player host events and manage registration!**
@@ -20,7 +20,7 @@ I'm an enthiusiatic, motivated CS student at Columbia University, with passion a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Featured Projects 💻
+## Main Projects 💻
 
 ### [Subttify - Audio Transcriber Website](https://github.com/DerickW126/Audio-Transcriber-Website)
 
