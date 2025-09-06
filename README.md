@@ -19,6 +19,8 @@ I'm currently developing and maintaing an app that helps volleyball player creat
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Main Projects 💻
+### [Let's Play Volleyball - Volleyball open play event management app](https://github.com/DerickW126/Volleyball-app)
+Let's Play Volleyball is a mobile app designed to help Taiwanese volleyball lovers find players nearby to complete a 12-person game. Many enjoy the sport but struggle to gather enough people at the same time and place. This app connects strangers with shared availability to make games happen easily, as showcased in the provided screenshots.
 
 ### [Subttify - Audio Transcriber Website](https://github.com/DerickW126/Audio-Transcriber-Website)
 
