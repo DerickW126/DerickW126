@@ -2,8 +2,8 @@
 
 ## About Me 🚀
 
-I'm an enthiusiatic, motivated CS student at Columbia University, with passion and project expereinces in **machine learning, software engineering, and databases** 
-I'm currently developing and maintaing an app that helps volleyball player create pickup events and manage registration! Find it here: https://apps.apple.com/us/app/%E6%89%93%E6%8E%92%E7%90%83%E5%90%A7/id6702006209
+I'm an enthusiastic, motivated Computer Engineering student at Columbia University, with passion and project experiences in **machine learning, software engineering, and databases** 
+I'm currently developing and maintaining an app that helps volleyball players create pickup events and manage registration! Find it here: https://apps.apple.com/us/app/%E6%89%93%E6%8E%92%E7%90%83%E5%90%A7/id6702006209
 
 - 🌍 Languages: **C++, Python, Java, Mandarin Chinese, English**
 - 📫 How to reach me: **derickwang2005@gmail.com or sw4015@columbia.edu**
